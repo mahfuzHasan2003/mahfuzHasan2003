@@ -4,84 +4,76 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Get in Touch
 
-<p>
-  <a href="mailto:mahfuzhasan2003@yahoo.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/530453/mail-reception.svg" alt="Email" width="20" height="20" />
-    <span>mahfuzhasan2003@yahoo.com</span>
-  </a>
-</p>
-<p>
-  <a href="https://mahfuz-hasan.surge.sh/" target="_blank">
-    <img src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" alt="Portfolio" width="20" height="20" />
-    <span>mahfuz-hasan.surge.sh</span>
-  </a>
-</p>
-<p>
+<div align="left">
   <a href="https://www.linkedin.com/in/mahfuzhasan2003/" target="_blank">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="20" height="20" />
-    <span>linkedin.com/in/mahfuzhasan2003</span>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-</p>
-<p>
   <a href="https://codeforces.com/profile/mahfuzhasan2003" target="_blank">
-    <img src="https://www.svgrepo.com/show/525813/code-square.svg" alt="Codeforces" width="20" height="20" />
-    <span>codeforces.com/profile/mahfuzhasan2003</span>
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="35" alt="hackerrank logo"  />
   </a>
-</p>
+  <a href="https://mahfuz-hasan.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio%20&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="35" alt="devto logo"  />
+  </a>
+  <a href="mailto:mahfuzhasan2003@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/8801883777122" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/callMeMahfuz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.behance.net/mahfuzHasan2003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="35" alt="behance logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
 ## 🚀 Technologies & Tools
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/373669/html.svg" alt="HTML" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354259/react.svg" alt="ReactJS" width="50" height="50" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="ShadcnUI" width="50" height="50" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJS" width="50" height="50" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/330398/express.svg" alt="ExpressJS" width="50" height="50" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="50" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/341847/github.svg" alt="GitHub" width="50" height="50" />
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="Figma" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/373623/git.svg" alt="Git" width="50" height="50" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="50" height="50" />
-  </a>
-</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
 
 ---
 
