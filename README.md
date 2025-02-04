@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!;It's+Mahfuz+Hasan;a+React+Developer;a+Fullstack+JavaScript+Developer;" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src ="./Github-Cover.jpg" />
+</div>
+
 ---
 
 ## 📫 Get in Touch
