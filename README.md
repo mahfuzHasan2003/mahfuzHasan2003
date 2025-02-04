@@ -38,6 +38,13 @@
 
 ---
 
+- 🚀 I'm currently working on a chatting application.  
+- 📚 I'm currently learning Next.js.  
+- 💡 **Fun fact:** `{ "status": 102, "message": "request under processing" }`
+
+
+---
+
 ## 🚀 Technologies & Tools
 
 
