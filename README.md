@@ -39,9 +39,12 @@
 ###
 
 
-- 🚀 I'm currently working on a chatting application.  
-- 📚 I'm currently learning Next.js.  
+<p>I'm passionate Frontend Developer with expertise in React and modern UI/UX principles. I enjoy solving bugs, tackling complex problems, and exploring new technologies to build seamless and user-friendly web applications. Seeking opportunities to grow and contribute in a dynamic environment.</p>
+
+
+- 📚 I'm currently learning Next.js for full stack and GSAP for animation.  
 - 💡 **Fun fact:** `{ "status": 102, "message": "request under processing" }`
+
 
 
 ---
