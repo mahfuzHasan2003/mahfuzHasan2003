@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src ="./Github-Cover.jpg" />
+  <img src ="./github-cover.jpg" />
 </div>
 
 <p align="center">
