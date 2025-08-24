@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!;It's+Mahfuz+Hasan;a+React+Developer;a+Fullstack+JavaScript+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!;It's+Mahfuz+Hasan;a+React+Developer;a+Front-end+Web+Developer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <p>I'm a passionate Frontend Developer with expertise in JavaScript, React, and modern UI/UX principles. I enjoy solving bugs, tackling complex problems, and exploring new technologies to build seamless and user-friendly web applications. My focus is not just on delivering or completing projects, but on ensuring high quality and long-term value in everything I build.</p>
 
 
-- 📚 I'm currently learning Next.js for full stack and GSAP for animation.  
+- 📚 I'm currently learning Redux and GSAP.  
 - 💡 **Fun fact:** `{ "status": 102, "message": "request under processing" }`
 
 ---
