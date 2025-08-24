@@ -39,7 +39,7 @@
 ###
 
 
-<p>I'm passionate Frontend Developer with expertise in React and modern UI/UX principles. I enjoy solving bugs, tackling complex problems, and exploring new technologies to build seamless and user-friendly web applications. Seeking opportunities to grow and contribute in a dynamic environment.</p>
+<p>I'm a passionate Frontend Developer with expertise in JavaScript, React, and modern UI/UX principles. I enjoy solving bugs, tackling complex problems, and exploring new technologies to build seamless and user-friendly web applications. My focus is not just on delivering or completing projects, but on ensuring high quality and long-term value in everything I build.</p>
 
 
 - 📚 I'm currently learning Next.js for full stack and GSAP for animation.  
